@@ -21,8 +21,9 @@ Data Exploration and Preprocessing
 
 Analyzed class distribution and feature correlations.
 Scaled features (Time and Amount).
-Addressed class imbalance using SMOTE.
-Model Development
+Addressed class imbalance using undersampling.
+
+# **Model Development:**
 
 Implemented various machine learning algorithms:
 
