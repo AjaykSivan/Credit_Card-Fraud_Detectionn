@@ -1,8 +1,10 @@
 # Credit_Card-Fraud_Detectionn
-Introduction
+Introduction:
+
 Credit card fraud detection is a critical challenge in the financial sector due to the increasing number of fraudulent transactions. This project aims to build a machine learning pipeline to identify potentially fraudulent transactions while minimizing false positives.
 
-Dataset Information
+Dataset Information:
+
 The dataset used for this project is masked credit card transaction data, containing the following:
 
 Features: 30 features (Time, Amount, V1 to V28).
@@ -11,7 +13,8 @@ Target: Binary labels:
 1: Fraudulent transaction.
 Class Imbalance: The dataset is highly imbalanced, with a significantly smaller number of fraudulent transactions.
 
-Project Workflow
+Project Workflow:
+
 Data Exploration and Preprocessing
 
 Analyzed class distribution and feature correlations.
