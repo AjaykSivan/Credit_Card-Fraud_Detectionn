@@ -8,9 +8,11 @@ Credit card fraud detection is a critical challenge in the financial sector due 
 The dataset used for this project is masked credit card transaction data, containing the following:
 
 Features: 30 features (Time, Amount, V1 to V28).
+
 Target: Binary labels:
 0: Legitimate transaction.
 1: Fraudulent transaction.
+
 Class Imbalance: The dataset is highly imbalanced, with a significantly smaller number of fraudulent transactions.
 
 # **Project Workflow:**
