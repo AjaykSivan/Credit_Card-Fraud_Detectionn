@@ -28,11 +28,16 @@ Addressed class imbalance using undersampling.
 Implemented various machine learning algorithms:
 
 Logistic Regression
+
 Random Forest Classifier
+
 Support Vector Machine (SVM)
+
 K-Nearest Neighbors (KNN)
+
 Gaussian Naive Bayes (GNB)
-Hyperparameter Tuning
+
+Hyperparameter Tuning:
 
 Optimized models using GridSearchCV.
 
